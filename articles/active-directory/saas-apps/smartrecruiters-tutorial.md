@@ -31,7 +31,7 @@ To get started, you need the following items:
 
 In this tutorial, you configure and test Azure AD single sign-on in a test environment.
 
-* SmartRecruiters supports **SP and IDP** initiated SSO.
+* SmartRecruiters supports **IDP** initiated SSO.
 
 ## Add SmartRecruiters from the gallery
 
